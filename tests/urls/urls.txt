@@ -1,0 +1,2 @@
+http://www.python.org/doc/
+http://www.netflix.com
